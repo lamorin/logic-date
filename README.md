@@ -8,6 +8,8 @@ Dos artefactos:
 
 Utilizar Spring Boot.
 
+El sistema puede ponerse en 3 modos:
+
 - Fecha y hora física (La fecha y la hora reales)
 - Fecha y hora fija
 - Fecha y hora fijas
